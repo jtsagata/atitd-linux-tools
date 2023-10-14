@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Atitd
+Comment=A Tale in the Desert
+Exec=/home/__USER__/.local/bin/atitd
+Icon=/home/__USER__/.local/share/icons/hicolor/64x64/apps/atitd.png
+Type=Application
+MimeType=text/plain
+Categories=Games
+InitialPreference=6
+Terminal=false
+Hidden=false

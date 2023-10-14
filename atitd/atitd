@@ -1,0 +1,7 @@
+#!/bin/bash
+cd ~/Games/atitd/ATITD || exit
+if pgrep fltk-eclient >/dev/null; then
+    ./fltk-eclient "$@" &
+else
+    ./elaunch "$@" &
+fi

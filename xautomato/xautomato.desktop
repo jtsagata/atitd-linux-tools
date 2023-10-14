@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Automato
+Comment=Xautomato
+Exec=/home/__USER__/.local/bin/xautomato
+Icon=/home/__USER__/.local/share/icons/hicolor/64x64/apps/xautomato.png
+Type=Application
+MimeType=text/plain
+Categories=Games
+InitialPreference=6
+Terminal=false
+Hidden=false
